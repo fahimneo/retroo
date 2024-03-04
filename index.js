@@ -5,6 +5,7 @@ const latestPosts = document.getElementById("latestPosts");
 let dataContainer = [];
 let latestPostContainer = [];
 
+//new line
 const latestPost = () => {
   latestPostContainer.forEach((data) => {
     console.log(data);
